@@ -1,0 +1,24 @@
+---
+title: "The Daily Yalie"
+author: "chrysie"
+date: "2024-11-12"
+output: html_document
+---
+
+# The Daily Yalie
+
+## August
+
+#### August 17th 
+
+#### August 18th 
+
+#### August 19th 
+
+#### 
+
+## September
+
+#### September 1st 
+
+#### September 2nd
